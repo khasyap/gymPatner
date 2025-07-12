@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<!-- Mirrored from srkv-fitness-gym-7.web.app/english/public/english/public/english/public/english/public/english/public/english/public/english/public/english/public/english/public/english/public/english/public/english/public/english/public/english/public/english/public/english/public/english/public/english/public/english/public/english/public/english/public/english/public/english/public/english/public/english/img/logo.png by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 12 Jul 2025 11:39:07 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SRKV & CO</title>
+    <link rel="shortcut icon" href="logo.d8.delaye">
+    <style>
+        body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-image: url("../../../../../../../../../../../../../../../../../../../../../../../../../t4.ftcdn.net/jpg/00/99/82/15/360_F_99821575_nVEHTBXzUnTcLIKN6yOymAWAnFwEybGb.jpg");
+        }
+        
+        .header {
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            display: flex;
+            align-items: center;
+            padding: 10px 20px;
+            box-sizing: border-box;
+            background-color:rgb(58, 58, 58);
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+            z-index: 100;
+        }
+        
+        .logo {
+            width: 40px;
+            height: 40px;
+            margin-right: 15px;
+            background-color: #4CAF50;
+            border-radius: 50%;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-weight: bold;
+        }
+        
+        .language {
+            padding: 5px 10px;
+            background-color:rgb(53, 53, 53);
+            color: white;
+            border-radius: 4px;
+            font-size: 14px;
+            margin-left: auto;
+        }
+        
+        .main {
+            position: relative;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            top: 350px;
+            gap: 40px;
+        }
+        
+        .main-title {
+            border: 1px solid black;
+            padding: 10px 20px;
+            box-sizing: border-box;
+            text-decoration: none;
+            background-color: white;
+            color: black;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            border-radius: 4px;
+            font-size: 16px;
+            display: inline-block;
+        }
+        
+        .main-title:hover {
+            background-color: lightgrey;
+            color: white;
+            transform: translateY(-3px);
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        
+        .paragraph {
+            align-items: center;
+            justify-content: center;
+            display: flex;
+            position: relative;
+            top: 450px;
+            overflow: hidden;
+            width: 100%;
+        }
+        
+        .para1 {
+            box-sizing: border-box;
+            padding: 5px;
+            white-space: nowrap;
+            animation: scroll 15s linear infinite;
+            color:white;
+        }
+        
+        @keyframes scroll {
+            0% {
+                transform: translateX(100%);
+            }
+            100% {
+                transform: translateX(-100%);
+            }
+        }
+        
+      
+    </style>
+</head>
+<body>
+    <div class="header">
+        
+        <div class="language">Select Language</div>
+        
+    </div>
+    
+    <div class="main">
+        <div class="main-english">
+            <a href="../../../../../../../../../../../../../../../../../../../../../../../index.html" class="main-title">English</a>
+        </div>
+        <div class="main-telugu">
+            <a href="../../../../../../../../../../../../../../../../../../../../../../../../telugu/index.html" class="main-title">Telugu</a>
+        </div>
+    </div>
+    
+    <div class="paragraph">
+        <p class="para1"> <strong>IT IS ONLY FOR DESKTOP USER &nbsp;&nbsp;|  &nbsp;&nbsp;NOT FOR MOBILE USER </strong></p>
+    </div>
+</body>
+
+<!-- Mirrored from srkv-fitness-gym-7.web.app/english/public/english/public/english/public/english/public/english/public/english/public/english/public/english/public/english/public/english/public/english/public/english/public/english/public/english/public/english/public/english/public/english/public/english/public/english/public/english/public/english/public/english/public/english/public/english/public/english/img/logo.png by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 12 Jul 2025 11:39:07 GMT -->
+</html>
